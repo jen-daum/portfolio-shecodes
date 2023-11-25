@@ -93,3 +93,11 @@ p {
 .gb-accent {
   background: var(--secondary-color);
 }
+
+.row {
+  align-items: center;
+}
+
+.text-justify {
+  text-align: justify;
+}
